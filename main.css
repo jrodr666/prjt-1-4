@@ -1,0 +1,30 @@
+Body {background-color: azure;
+            font-family: "Lucida Console", "Courier New", monospace;}
+            header{background-color:blue;
+            
+            }
+h1{color:firebrick;}
+ nav > ul {line-height:5em;
+ list-style-type: armenian;
+ padding-left: 10px;}
+
+ section {background-color: darkblue;
+ width:80%:active
+ font-size:2em;}
+ footer{background-color: lightblue;}
+
+#left { 
+ clear: left; 
+ float: left; 
+ width: 40%; 
+}
+#right { 
+ clear: right; 
+ float: right; 
+ width: 50%; 
+}
+#footer { 
+ clear: both; 
+ float: none; 
+ width: 100%; 
+}
